@@ -1,0 +1,134 @@
+[
+  {
+    "Record 1": "In the United States of America, the Amarilla product was sold with a discount band of , resulting in 1143 units sold at a manufacturing price of $260 and a sale price of $7, generating gross sales of $8001.0, with $0 in discounts, leading to sales of $8001.0, COGS of $5715.0, and a profit of $2286.0 on October 1, 2014."
+  },
+  {
+    "Record 2": "In the United States of America, the Amarilla product was sold with a discount band of , resulting in 615 units sold at a manufacturing price of $260 and a sale price of $15, generating gross sales of $9225.0, with $0 in discounts, leading to sales of $9225.0, COGS of $6150.0, and a profit of $3075.0 on December 1, 2014."
+  },
+  {
+    "Record 3": "In France, the Paseo product was sold with a discount band of Low, resulting in 3945 units sold at a manufacturing price of $10 and a sale price of $7, generating gross sales of $27615.0, with $276.15 in discounts, leading to sales of $27338.85, COGS of $19725.0, and a profit of $7613.85 on January 1, 2014."
+  },
+  {
+    "Record 4": "In France, the Paseo product was sold with a discount band of Low, resulting in 2296 units sold at a manufacturing price of $10 and a sale price of $15, generating gross sales of $34440.0, with $344.4 in discounts, leading to sales of $34095.6, COGS of $22960.0, and a profit of $11135.6 on February 1, 2014."
+  },
+  {
+    "Record 5": "In France, the Paseo product was sold with a discount band of Low, resulting in 1030 units sold at a manufacturing price of $10 and a sale price of $7, generating gross sales of $7210.0, with $72.1 in discounts, leading to sales of $7137.9, COGS of $5150.0, and a profit of $1987.9 on May 1, 2014."
+  },
+  {
+    "Record 6": "In France, the Velo product was sold with a discount band of Low, resulting in 639 units sold at a manufacturing price of $120 and a sale price of $7, generating gross sales of $4473.0, with $44.73 in discounts, leading to sales of $4428.27, COGS of $3195.0, and a profit of $1233.27 on November 1, 2014."
+  },
+  {
+    "Record 7": "In Canada, the VTT product was sold with a discount band of Low, resulting in 1326 units sold at a manufacturing price of $250 and a sale price of $7, generating gross sales of $9282.0, with $92.82 in discounts, leading to sales of $9189.18, COGS of $6630.0, and a profit of $2559.18 on March 1, 2014."
+  },
+  {
+    "Record 8": "In the United States of America, the Carretera product was sold with a discount band of Low, resulting in 1858 units sold at a manufacturing price of $3 and a sale price of $12, generating gross sales of $22296.0, with $222.96 in discounts, leading to sales of $22073.04, COGS of $5574.0, and a profit of $16499.04 on February 1, 2014."
+  },
+  {
+    "Record 9": "In Mexico, the Carretera product was sold with a discount band of Low, resulting in 1210 units sold at a manufacturing price of $3 and a sale price of $350, generating gross sales of $423500.0, with $4235.0 in discounts, leading to sales of $419265.0, COGS of $314600.0, and a profit of $104665.0 on March 1, 2014."
+  },
+  {
+    "Record 10": "In the United States of America, the Carretera product was sold with a discount band of Low, resulting in 2529 units sold at a manufacturing price of $3 and a sale price of $7, generating gross sales of $17703.0, with $177.03 in discounts, leading to sales of $17525.97, COGS of $12645.0, and a profit of $4880.97 on July 1, 2014."
+  },
+  {
+    "Record 11": "In Canada, the Carretera product was sold with a discount band of Low, resulting in 1445 units sold at a manufacturing price of $3 and a sale price of $12, generating gross sales of $17340.0, with $173.4 in discounts, leading to sales of $17166.6, COGS of $4335.0, and a profit of $12831.6 on September 1, 2014."
+  },
+  {
+    "Record 12": "In the United States of America, the Carretera product was sold with a discount band of Low, resulting in 330 units sold at a manufacturing price of $3 and a sale price of $125, generating gross sales of $41250.0, with $412.5 in discounts, leading to sales of $40837.5, COGS of $39600.0, and a profit of $1237.5 on September 1, 2013."
+  },
+  {
+    "Record 13": "In France, the Carretera product was sold with a discount band of Low, resulting in 2671 units sold at a manufacturing price of $3 and a sale price of $12, generating gross sales of $32052.0, with $320.52 in discounts, leading to sales of $31731.48, COGS of $8013.0, and a profit of $23718.48 on September 1, 2014."
+  },
+  {
+    "Record 14": "In Germany, the Carretera product was sold with a discount band of Low, resulting in 766 units sold at a manufacturing price of $3 and a sale price of $12, generating gross sales of $9192.0, with $91.92 in discounts, leading to sales of $9100.08, COGS of $2298.0, and a profit of $6802.08 on October 1, 2013."
+  },
+  {
+    "Record 15": "In Mexico, the Carretera product was sold with a discount band of Low, resulting in 494 units sold at a manufacturing price of $3 and a sale price of $300, generating gross sales of $148200.0, with $1482.0 in discounts, leading to sales of $146718.0, COGS of $123500.0, and a profit of $23218.0 on October 1, 2013."
+  },
+  {
+    "Record 16": "In the United States of America, the Montana product was sold with a discount band of High, resulting in 677 units sold at a manufacturing price of $5 and a sale price of $15, generating gross sales of $10155.0, with $1218.6 in discounts, leading to sales of $8936.4, COGS of $6770.0, and a profit of $2166.4 on March 1, 2014."
+  },
+  {
+    "Record 17": "In France, the Montana product was sold with a discount band of High, resulting in 1773 units sold at a manufacturing price of $5 and a sale price of $300, generating gross sales of $531900.0, with $63828.0 in discounts, leading to sales of $468072.0, COGS of $443250.0, and a profit of $24822.0 on April 1, 2014."
+  },
+  {
+    "Record 18": "In Mexico, the Montana product was sold with a discount band of High, resulting in 2420 units sold at a manufacturing price of $5 and a sale price of $7, generating gross sales of $16940.0, with $2032.8 in discounts, leading to sales of $14907.2, COGS of $12100.0, and a profit of $2807.2 on September 1, 2014."
+  },
+  {
+    "Record 19": "In Canada, the Montana product was sold with a discount band of High, resulting in 2734 units sold at a manufacturing price of $5 and a sale price of $7, generating gross sales of $19138.0, with $2296.56 in discounts, leading to sales of $16841.44, COGS of $13670.0, and a profit of $3171.44 on October 1, 2014."
+  },
+  {
+    "Record 20": "In Mexico, the Montana product was sold with a discount band of High, resulting in 1715 units sold at a manufacturing price of $5 and a sale price of $20, generating gross sales of $34300.0, with $4116.0 in discounts, leading to sales of $30184.0, COGS of $17150.0, and a profit of $13034.0 on October 1, 2013."
+  },
+  {
+    "Record 21": "In France, the Montana product was sold with a discount band of High, resulting in 1186 units sold at a manufacturing price of $5 and a sale price of $300, generating gross sales of $355800.0, with $42696.0 in discounts, leading to sales of $313104.0, COGS of $296500.0, and a profit of $16604.0 on December 1, 2013."
+  },
+  {
+    "Record 22": "In the United States of America, the Paseo product was sold with a discount band of High, resulting in 3495 units sold at a manufacturing price of $10 and a sale price of $300, generating gross sales of $1048500.0, with $125820.0 in discounts, leading to sales of $922680.0, COGS of $873750.0, and a profit of $48930.0 on January 1, 2014."
+  },
+  {
+    "Record 23": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 886 units sold at a manufacturing price of $10 and a sale price of $350, generating gross sales of $310100.0, with $37212.0 in discounts, leading to sales of $272888.0, COGS of $230360.0, and a profit of $42528.0 on June 1, 2014."
+  },
+  {
+    "Record 24": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 2156 units sold at a manufacturing price of $10 and a sale price of $125, generating gross sales of $269500.0, with $32340.0 in discounts, leading to sales of $237160.0, COGS of $258720.0, and a profit of -$21560.0 on October 1, 2014."
+  },
+  {
+    "Record 25": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 905 units sold at a manufacturing price of $10 and a sale price of $20, generating gross sales of $18100.0, with $2172.0 in discounts, leading to sales of $15928.0, COGS of $9050.0, and a profit of $6878.0 on October 1, 2014."
+  },
+  {
+    "Record 26": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 1715 units sold at a manufacturing price of $10 and a sale price of $20, generating gross sales of $34300.0, with $4116.0 in discounts, leading to sales of $30184.0, COGS of $17150.0, and a profit of $13034.0 on October 1, 2013."
+  },
+  {
+    "Record 27": "In France, the Paseo product was sold with a discount band of High, resulting in 1594 units sold at a manufacturing price of $10 and a sale price of $350, generating gross sales of $557900.0, with $66948.0 in discounts, leading to sales of $490952.0, COGS of $414440.0, and a profit of $76512.0 on November 1, 2014."
+  },
+  {
+    "Record 28": "In Germany, the Paseo product was sold with a discount band of High, resulting in 1359 units sold at a manufacturing price of $10 and a sale price of $300, generating gross sales of $407700.0, with $48924.0 in discounts, leading to sales of $358776.0, COGS of $339750.0, and a profit of $19026.0 on November 1, 2014."
+  },
+  {
+    "Record 29": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 2150 units sold at a manufacturing price of $10 and a sale price of $300, generating gross sales of $645000.0, with $77400.0 in discounts, leading to sales of $567600.0, COGS of $537500.0, and a profit of $30100.0 on November 1, 2014."
+  },
+  {
+    "Record 30": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 1197 units sold at a manufacturing price of $10 and a sale price of $350, generating gross sales of $418950.0, with $50274.0 in discounts, leading to sales of $368676.0, COGS of $311220.0, and a profit of $57456.0 on November 1, 2014."
+  },
+  {
+    "Record 31": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 380 units sold at a manufacturing price of $10 and a sale price of $15, generating gross sales of $5700.0, with $684.0 in discounts, leading to sales of $5016.0, COGS of $3800.0, and a profit of $1216.0 on December 1, 2013."
+  },
+  {
+    "Record 32": "In Mexico, the Paseo product was sold with a discount band of High, resulting in 1233 units sold at a manufacturing price of $10 and a sale price of $20, generating gross sales of $24660.0, with $2959.2 in discounts, leading to sales of $21700.8, COGS of $12330.0, and a profit of $9370.8 on December 1, 2014."
+  },
+  {
+    "Record 33": "In Mexico, the Velo product was sold with a discount band of High, resulting in 1395 units sold at a manufacturing price of $120 and a sale price of $350, generating gross sales of $488250.0, with $58590.0 in discounts, leading to sales of $429660.0, COGS of $362700.0, and a profit of $66960.0 on July 1, 2014."
+  },
+  {
+    "Record 34": "In the United States of America, the Velo product was sold with a discount band of High, resulting in 986 units sold at a manufacturing price of $120 and a sale price of $350, generating gross sales of $345100.0, with $41412.0 in discounts, leading to sales of $303688.0, COGS of $256360.0, and a profit of $47328.0 on October 1, 2014."
+  },
+  {
+    "Record 35": "In Mexico, the Velo product was sold with a discount band of High, resulting in 905 units sold at a manufacturing price of $120 and a sale price of $20, generating gross sales of $18100.0, with $2172.0 in discounts, leading to sales of $15928.0, COGS of $9050.0, and a profit of $6878.0 on October 1, 2014."
+  },
+  {
+    "Record 36": "In Canada, the VTT product was sold with a discount band of High, resulting in 2109 units sold at a manufacturing price of $250 and a sale price of $12, generating gross sales of $25308.0, with $3036.96 in discounts, leading to sales of $22271.04, COGS of $6327.0, and a profit of $15944.04 on May 1, 2014."
+  },
+  {
+    "Record 37": "In France, the VTT product was sold with a discount band of High, resulting in 3874.5 units sold at a manufacturing price of $250 and a sale price of $15, generating gross sales of $58117.5, with $6974.1 in discounts, leading to sales of $51143.4, COGS of $38745.0, and a profit of $12398.4 on July 1, 2014."
+  },
+  {
+    "Record 38": "In Canada, the VTT product was sold with a discount band of High, resulting in 623 units sold at a manufacturing price of $250 and a sale price of $350, generating gross sales of $218050.0, with $26166.0 in discounts, leading to sales of $191884.0, COGS of $161980.0, and a profit of $29904.0 on September 1, 2013."
+  },
+  {
+    "Record 39": "In the United States of America, the VTT product was sold with a discount band of High, resulting in 986 units sold at a manufacturing price of $250 and a sale price of $350, generating gross sales of $345100.0, with $41412.0 in discounts, leading to sales of $303688.0, COGS of $256360.0, and a profit of $47328.0 on October 1, 2014."
+  },
+  {
+    "Record 40": "In the United States of America, the VTT product was sold with a discount band of High, resulting in 2387 units sold at a manufacturing price of $250 and a sale price of $125, generating gross sales of $298375.0, with $35805.0 in discounts, leading to sales of $262570.0, COGS of $286440.0, and a profit of -$23870.0 on November 1, 2014."
+  },
+  {
+    "Record 41": "In Mexico, the VTT product was sold with a discount band of High, resulting in 1233 units sold at a manufacturing price of $250 and a sale price of $20, generating gross sales of $24660.0, with $2959.2 in discounts, leading to sales of $21700.8, COGS of $12330.0, and a profit of $9370.8 on December 1, 2014."
+  },
+  {
+    "Record 42": "In the United States of America, the Amarilla product was sold with a discount band of High, resulting in 270 units sold at a manufacturing price of $260 and a sale price of $350, generating gross sales of $94500.0, with $11340.0 in discounts, leading to sales of $83160.0, COGS of $70200.0, and a profit of $12960.0 on February 1, 2014."
+  },
+  {
+    "Record 43": "In France, the Amarilla product was sold with a discount band of High, resulting in 3421.5 units sold at a manufacturing price of $260 and a sale price of $7, generating gross sales of $23950.5, with $2874.06 in discounts, leading to sales of $21076.44, COGS of $17107.5, and a profit of $3968.94 on July 1, 2014."
+  },
+  {
+    "Record 44": "In Canada, the Amarilla product was sold with a discount band of High, resulting in 2734 units sold at a manufacturing price of $260 and a sale price of $7, generating gross sales of $19138.0, with $2296.56 in discounts, leading to sales of $16841.44, COGS of $13670.0, and a profit of $3171.44 on October 1, 2014."
+  }
+]

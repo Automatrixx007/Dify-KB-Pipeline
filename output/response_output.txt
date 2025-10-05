@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "dataset_size": 45,
+    "segment_distribution": {
+      "Government": 12,
+      "Midmarket": 7,
+      "Channel Partners": 5,
+      "Enterprise": 2,
+      "Small Business": 9
+    },
+    "country_distribution": {
+      "United States of America": 14,
+      "France": 9,
+      "Canada": 6,
+      "Mexico": 6,
+      "Germany": 2
+    },
+    "product_distribution": {
+      "Amarilla": 6,
+      "Paseo": 12,
+      "Velo": 6,
+      "Carretera": 8,
+      "Montana": 7
+    }
+  },
+  "column_descriptions": {
+    "Segment": "Customer segment",
+    "Country": "Country of sale",
+    "Product": "Product name",
+    "Discount Band": "Discount band",
+    "Units Sold": "Number of units sold",
+    "Manufacturing Price": "Manufacturing price",
+    "Sale Price": "Sale price",
+    "Gross Sales": "Gross sales",
+    "Discounts": "Discounts",
+    "Sales": "Sales",
+    "COGS": "Cost of goods sold",
+    "Profit": "Profit",
+    "Date": "Date of sale",
+    "Month Number": "Month number",
+    "Month Name": "Month name",
+    "Year": "Year of sale"
+  },
+  "total_columns": 20,
+  "total_rows": 45,
+  "metadata": {
+    "data_source": "Sales data",
+    "data_type": "transactional data"
+  },
+  "statistical_data": {
+    "mean_sales": 13451.31111111111,
+    "mean_cogs": 7412.177777777778,
+    "mean_profit": 6041.11111111111,
+    "max_sales": 1048500,
+    "max_cogs": 873750,
+    "max_profit": 48930
+  },
+  "data_relationships": {
+    "segment_country": "Government customers are mainly from United States of America and France",
+    "country_product": "France has a high sales of Paseo product"
+  },
+  "insights": {
+    "profitability": "Government segment has the highest profit",
+    "sales_trend": "Sales of Paseo product is increasing over time"
+  }
+}

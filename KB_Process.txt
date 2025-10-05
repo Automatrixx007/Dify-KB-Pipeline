@@ -1,0 +1,12 @@
+KB Pre-process:
+ > Create an overview about the file itself
+ > Create an overview per data
+ > Create a data correlation of the data with each other. 
+
+
+Chunking Method:
+Overview - Head Chunk
+Data:
+ - Overview of the row data
+ - Actual data
+ - Correlation of the row data to other row data
